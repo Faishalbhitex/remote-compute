@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+models/
+out/
+*.safetensors
+*.bin
+*.gguf
+*_output.ipynb
+.env
+*.token
+kaggle.json
